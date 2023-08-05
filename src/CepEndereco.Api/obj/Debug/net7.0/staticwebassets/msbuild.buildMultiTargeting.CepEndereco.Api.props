@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CepEndereco.Api.props" />
+</Project>
